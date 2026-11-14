@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34857102/README.md)
 <!-- studio:settings user=d1ezz9 theme=auto hl=2 border=hide light=github-light -->
 
 <!-- studio:header -->
